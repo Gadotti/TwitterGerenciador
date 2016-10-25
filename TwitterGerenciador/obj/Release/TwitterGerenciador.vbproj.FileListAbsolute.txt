@@ -1,0 +1,36 @@
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\bin\TwitterGerenciador.dll
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\bin\TwitterGerenciador.pdb
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\bin\TwitterGerenciador.xml
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\bin\Autenticador.dll
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\bin\Autenticador.pdb
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Release\ResolveAssemblyReference.cache
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Release\TwitterGerenciador.Resources.resources
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Release\TwitterGerenciador.vbproj.GenerateResource.Cache
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Release\TwitterGerenciador.dll
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Release\TwitterGerenciador.xml
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Release\TwitterGerenciador.pdb
+E:\Sistemas\TwitterGerenciador\TwitterGerenciador\bin\TwitterGerenciador.dll
+E:\Sistemas\TwitterGerenciador\TwitterGerenciador\bin\TwitterGerenciador.pdb
+E:\Sistemas\TwitterGerenciador\TwitterGerenciador\bin\TwitterGerenciador.xml
+E:\Sistemas\TwitterGerenciador\TwitterGerenciador\bin\Autenticador.dll
+E:\Sistemas\TwitterGerenciador\TwitterGerenciador\bin\TwitterVB.dll
+E:\Sistemas\TwitterGerenciador\TwitterGerenciador\bin\Autenticador.pdb
+E:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Release\ResolveAssemblyReference.cache
+E:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Release\TwitterGerenciador.Resources.resources
+E:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Release\TwitterGerenciador.vbproj.GenerateResource.Cache
+E:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Release\TwitterGerenciador.dll
+E:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Release\TwitterGerenciador.xml
+E:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Release\TwitterGerenciador.pdb
+E:\Sistemas\TwitterGerenciador V4\TwitterGerenciador\bin\TwitterGerenciador.dll
+E:\Sistemas\TwitterGerenciador V4\TwitterGerenciador\bin\TwitterGerenciador.pdb
+E:\Sistemas\TwitterGerenciador V4\TwitterGerenciador\bin\TwitterGerenciador.xml
+E:\Sistemas\TwitterGerenciador V4\TwitterGerenciador\bin\Autenticador.dll
+E:\Sistemas\TwitterGerenciador V4\TwitterGerenciador\bin\TwitterVB.dll
+E:\Sistemas\TwitterGerenciador V4\TwitterGerenciador\bin\Autenticador.pdb
+E:\Sistemas\TwitterGerenciador V4\TwitterGerenciador\obj\Release\ResolveAssemblyReference.cache
+E:\Sistemas\TwitterGerenciador V4\TwitterGerenciador\obj\Release\TwitterGerenciador.Resources.resources
+E:\Sistemas\TwitterGerenciador V4\TwitterGerenciador\obj\Release\GenerateResource.read.1.tlog
+E:\Sistemas\TwitterGerenciador V4\TwitterGerenciador\obj\Release\GenerateResource.write.1.tlog
+E:\Sistemas\TwitterGerenciador V4\TwitterGerenciador\obj\Release\TwitterGerenciador.dll
+E:\Sistemas\TwitterGerenciador V4\TwitterGerenciador\obj\Release\TwitterGerenciador.xml
+E:\Sistemas\TwitterGerenciador V4\TwitterGerenciador\obj\Release\TwitterGerenciador.pdb

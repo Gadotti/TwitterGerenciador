@@ -1,0 +1,11 @@
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\bin\TwitterGerenciador.dll
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\bin\TwitterGerenciador.pdb
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\bin\TwitterGerenciador.xml
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\bin\Autenticador.dll
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\bin\Autenticador.pdb
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Debug\ResolveAssemblyReference.cache
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Debug\TwitterGerenciador.Resources.resources
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Debug\TwitterGerenciador.vbproj.GenerateResource.Cache
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Debug\TwitterGerenciador.dll
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Debug\TwitterGerenciador.xml
+D:\Sistemas\TwitterGerenciador\TwitterGerenciador\obj\Debug\TwitterGerenciador.pdb

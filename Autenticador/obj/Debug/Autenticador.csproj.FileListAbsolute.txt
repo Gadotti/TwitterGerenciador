@@ -1,0 +1,5 @@
+D:\Sistemas\TwitterGerenciador\Autenticador\bin\Debug\Autenticador.dll
+D:\Sistemas\TwitterGerenciador\Autenticador\bin\Debug\Autenticador.pdb
+D:\Sistemas\TwitterGerenciador\Autenticador\obj\Debug\ResolveAssemblyReference.cache
+D:\Sistemas\TwitterGerenciador\Autenticador\obj\Debug\Autenticador.dll
+D:\Sistemas\TwitterGerenciador\Autenticador\obj\Debug\Autenticador.pdb

@@ -1,0 +1,15 @@
+D:\Sistemas\TwitterGerenciador\Autenticador\bin\Release\Autenticador.dll
+D:\Sistemas\TwitterGerenciador\Autenticador\bin\Release\Autenticador.pdb
+D:\Sistemas\TwitterGerenciador\Autenticador\obj\Release\ResolveAssemblyReference.cache
+D:\Sistemas\TwitterGerenciador\Autenticador\obj\Release\Autenticador.dll
+D:\Sistemas\TwitterGerenciador\Autenticador\obj\Release\Autenticador.pdb
+E:\Sistemas\TwitterGerenciador\Autenticador\bin\Release\Autenticador.dll
+E:\Sistemas\TwitterGerenciador\Autenticador\bin\Release\Autenticador.pdb
+E:\Sistemas\TwitterGerenciador\Autenticador\obj\Release\ResolveAssemblyReference.cache
+E:\Sistemas\TwitterGerenciador\Autenticador\obj\Release\Autenticador.dll
+E:\Sistemas\TwitterGerenciador\Autenticador\obj\Release\Autenticador.pdb
+E:\Sistemas\TwitterGerenciador V4\Autenticador\bin\Release\Autenticador.dll
+E:\Sistemas\TwitterGerenciador V4\Autenticador\bin\Release\Autenticador.pdb
+E:\Sistemas\TwitterGerenciador V4\Autenticador\obj\Release\ResolveAssemblyReference.cache
+E:\Sistemas\TwitterGerenciador V4\Autenticador\obj\Release\Autenticador.dll
+E:\Sistemas\TwitterGerenciador V4\Autenticador\obj\Release\Autenticador.pdb

@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="VB" CodeBehind="Gerenciador.asmx.vb" Class="TwitterGerenciador.Gerenciador" %>
